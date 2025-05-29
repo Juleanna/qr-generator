@@ -121,9 +121,7 @@ dmypy.json
 # Project specific
 qr_settings.json
 QR_Codes/
-*.png
-*.jpg
-*.jpeg
+
 
 # IDE
 .vscode/
