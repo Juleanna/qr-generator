@@ -152,7 +152,7 @@ qr-generator/
 
 ## 👨‍💻 Автор
 
-**Ваше имя**
+**Juleanna**
 - GitHub: [@Juleanna](https://github.com/Juleanna)
 - Email: juleannadafna@gmail.com
 
