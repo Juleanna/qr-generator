@@ -44,7 +44,7 @@
 
 ### Вариант 1: Готовый исполняемый файл (Windows)
 
-1. Скачайте последний релиз из [Releases](https://github.com/your-username/qr-generator/releases)
+1. Скачайте последний релиз из [Releases](https://github.com/Juleanna/qr-generator/releases)
 2. Запустите `QR_Generator.exe`
 3. Готово! Никаких дополнительных установок не требуется
 
@@ -57,7 +57,7 @@
 #### Установка
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/your-username/qr-generator.git
+git clone https://github.com/Juleanna/qr-generator.git
 cd qr-generator
 
 # Установите зависимости
