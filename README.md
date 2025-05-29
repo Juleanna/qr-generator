@@ -153,8 +153,8 @@ qr-generator/
 ## 👨‍💻 Автор
 
 **Ваше имя**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@Juleanna](https://github.com/Juleanna)
+- Email: juleannadafna@gmail.com
 
 ## 🙏 Благодарности
 
