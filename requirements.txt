@@ -1,4 +1,25 @@
+# Основні залежності для QR Code Generator Pro v2.0
+
+# QR код генерація
 qrcode[pil]==7.4.2
-Pillow==10.0.1
-pyinstaller==6.1.0
+
+# Обробка зображень
+Pillow==10.3.0
+
+# Збірка в виконуваний файл
+pyinstaller==6.3.0
+
+# SVG експорт (опціонально)
 svgwrite==1.4.3
+
+# Додаткові залежності для Windows
+pywin32==306; sys_platform == "win32"
+
+# Для кращої підтримки шрифтів
+fonttools==4.47.0
+
+# Для обробки кольорів
+colorama==0.4.6
+
+# Типізація для Python < 3.9
+typing-extensions>=4.0.0; python_version < "3.9"
